@@ -12,7 +12,7 @@ Code Cosmos is a service dedicated to making everything accessible—and we mean
 | Resource | Link |
 | :--- | :--- |
 | **🌐 Official Website** | [codecosmos.net](https://codecosmos.net) |
-| **📺 YouTube Channel** | [@codecosmos-YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP). |
+| **📺 YouTube Channel** | [@CodeCosmos_YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP). |
 | **📜 Privacy & Terms** | [privacy.codecosmos.net](https://privacy.codecosmos.net) |
 
 > **Note for explorers:** Our services are free (with optional payments). For users under 13, we encourage adults to help with sign-up to use our parental controls. 🛡️
