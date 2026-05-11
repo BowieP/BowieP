@@ -46,7 +46,7 @@ Today, I manage several distinct platforms:
 
 **Join the journey:**
 * **GitHub:** [github.com/@The-Code-Cosmos](https://github.com/@The-Code-Cosmos) 🐙
-* **YouTube:** [youtube.com/@codecosmos-YT](https://youtube.com/@codecosmos-YT) 📺
+* **YouTube:** [https://youtube.com/@CodeCosmos_YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP) 📺
 
 ---
 
