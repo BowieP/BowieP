@@ -9,6 +9,17 @@ Welcome to the Code Cosmos GitHub profile! This is where we build and share repo
 Code Cosmos is a service dedicated to making everything accessible—and we mean *everything*. 
 * **Entertainment** | **Development** | **Education** | **Chatting** | **Art** | **And More!**
 
+### 💻 Our Tech Stack
+We build our services using a modern, scalable full-stack architecture:
+
+| Technology | Purpose |
+| :--- | :--- |
+| **React** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprRxmkWKxZ9EfnfAp_vZeb6XUHLC-ONyC3a8jSDTPcA&s" width="30"> Core Web Development|
+| **HTML/JS** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qG8y6YJ6NjiFRVkl4eXKUXcHXEBH2hvKp9EPFyudsg&s" width="30"> MarkUp, schema and scripts |
+| **Firebase** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrm2KgAzoNpoDwhgyX7Xc9M3WVSp-awXwD6bj9fxQrrj-xGui3iT0xlR0&s" width="30"> Backend, Auth & Database |
+| **Node.js** | <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="30"> Terminal CMD |
+
+
 ---
 
 ### 🗺️ Mission Navigation
