@@ -2,6 +2,9 @@
 
 Welcome to the Code Cosmos GitHub profile! This is where we build and share repositories for our services, websites, and apps.
 
+​![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/cosmosgif.gif)
+
+
 ### 🚀 Our Mission
 Code Cosmos is a service dedicated to making everything accessible—and we mean *everything*. 
 * **Entertainment** | **Development** | **Education** | **Chatting** | **Art** | **And More!**
