@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/277532944?v=4&size=64" alt="Code Cosmos Logo" width="32" height="32" /> Code Cosmos: Why I Chose Firebase!
+ <img src="https://avatars.githubusercontent.com/u/277532944?v=4&size=64" alt="Code Cosmos Logo" width="32" height="32" /> Code Cosmos: Why I Chose Firebase!
 
 Hello, fellow coders and builders! The Code Cosmos team is back with another developer story! 
 
