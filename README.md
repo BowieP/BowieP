@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my GitHub profile. I'm a full-stack developer passionate about building accessible, creative, and innovative web experiences. I'm dedicated to creating technology that pushes boundaries and helps make the world a better place.
 
-![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/cosmosgif.gif)
+![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/bowiesgithubgif.gif)
 
 ---
 
