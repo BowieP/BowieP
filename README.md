@@ -1,53 +1,70 @@
-# 🌌 Welcome to the Code Cosmos! 👋
+# 🌌 Welcome, I'm Bowie! 👋
 
-Welcome to the Code Cosmos GitHub profile! This is where we build and share repositories for our services, websites, and apps.
-This is Bowies's profile, and Code Cosmos is one of his projects. Code Cosmos is not this accounts complete identity.
+Hey there! Welcome to my GitHub profile. I'm a full-stack developer passionate about building accessible, creative, and innovative web experiences. Whether I'm working independently or as part of a team, I'm always exploring new technologies and pushing the boundaries of what's possible on the web.
 
-​![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/cosmosgif.gif)
+![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/cosmosgif.gif)
 
+---
 
-### 🚀 Our Mission
-Code Cosmos is a service dedicated to making everything accessible—and we mean *everything*. 
-* **Entertainment** | **Development** | **Education** | **Chatting** | **Art** | **And More!**
+### 🚀 About Me
+I'm a young developer dedicated to creating technology that's **accessible to everyone**. My work spans:
+* **Web Development** | **Browser Extensions** | **Full-Stack Apps** | **Experimental Projects** | **Creative Tech** | **And More!**
 
-### 💻 Our Tech Stack
-We build our services using a modern, scalable full-stack architecture:
+I believe in building with purpose, maintaining clean code, and always learning something new.
+
+### 💻 Tech Stack
+I work with modern, scalable technologies across the full stack:
 
 | Technology | Purpose |
 | :--- | :--- |
 | **React** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprRxmkWKxZ9EfnfAp_vZeb6XUHLC-ONyC3a8jSDTPcA&s" width="30"> Core Web Development|
-| **HTML/JS** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qG8y6YJ6NjiFRVkl4eXKUXcHXEBH2hvKp9EPFyudsg&s" width="30"> MarkUp, schema and scripts |
+| **HTML/JS** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qG8y6YJ6NjiFRVkl4eXKUXcHXEBH2hvKp9EPFyudsg&s" width="30"> MarkUp & Scripts |
 | **Firebase** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrm2KgAzoNpoDwhgyX7Xc9M3WVSp-awXwD6bj9fxQrrj-xGui3iT0xlR0&s" width="30"> Backend, Auth & Database |
-| **Node.js** | <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="30"> Terminal CMD |
-
+| **Node.js** | <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="30"> Server & CLI Tools |
 
 ---
 
-### 🗺️ Mission Navigation
+### 🗺️ Where to Find Me
 | Resource | Link |
 | :--- | :--- |
-| **🌐 Official Website** | [codecosmos.net](https://codecosmos.net) |
-| **📺 YouTube Channel** | [@CodeCosmos_YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP). |
-| **📜 Privacy & Terms** | [privacy.codecosmos.net](https://privacy.codecosmos.net) |
+| **🌐 Website** | [codecosmos.net](https://codecosmos.net) |
+| **👤 Personal Site** | [bowie.pages.codecosmos.net](https://bowie.pages.codecosmos.net) |
+| **📺 YouTube** | [@CodeCosmos_YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP) |
+| **📖 About Code Cosmos** | [See ABOUT_CODECOSMOS.md](./ABOUT_CODECOSMOS.md) |
 
-> **Note for explorers:** Our services are free (with optional payments). For users under 13, we encourage adults to help with sign-up to use our parental controls. 🛡️
+---
+
+### 📚 Featured Projects
+* **Chrome Content Hider** - A browser extension for hiding distracting content and maintaining focus
+* **Code Cosmos Labs** - My experimental playground for testing new ideas and features
+* **Personal Website** - My portfolio and blog
+
+### 💡 Philosophy
+I build technology that matters. My focus is on:
+- ✨ **Accessibility** - Everyone deserves great tools
+- 🎨 **Creativity** - Pushing boundaries and trying new things
+- 📖 **Education** - Learning and sharing knowledge
+- 🤝 **Community** - Building kind, inclusive spaces
 
 ---
 
 ### 🛠️ Development Notes
-* If you see a **404** or **Connection Refused** page (and your internet is strong!), it just means we haven't finished coding that part yet! 😅
-* Code Cosmos is built by a young developer named **Bowie!**
+* Exploring new frameworks and tools constantly
+* Always open to collaboration and learning
+* If you find a 404 or broken link, just know I'm probably still building that! 😅
 
-### ⚖️ Rules & License
-* **License:** You are welcome to **fork** our code! However, you are **not permitted** to use the code for monetization or to create a replica of a Code Cosmos service without explicit permission.
-* **Community Safety:** You are not allowed to post mean, scary, or inappropriate things on our GitHub, YouTube, or any of our services. Let's keep the Cosmos kind! ✨
+### ⚖️ License & Community
+* **License:** Feel free to fork my code! However, please don't monetize or replicate my projects without permission.
+* **Community:** Let's keep things positive and respectful. Be kind! ✨
 
 ---
 
-### 📊 Cosmos Stats
+### 📊 GitHub Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=The-Code-Cosmos&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 ![Total Stars](https://img.shields.io/github/stars/The-Code-Cosmos?style=flat-square&label=TOTAL+STARS&color=gold)
 
-![Code Cosmos Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Code-Cosmos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Code-Cosmos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-Happy exploring the Cosmos! 🌠
+---
+
+Happy exploring! Feel free to check out my repositories and reach out if you want to collaborate. 🌠
