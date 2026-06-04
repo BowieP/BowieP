@@ -1,6 +1,6 @@
 # 🌌 Welcome, I'm Bowie! 👋
 
-Hey there! Welcome to my GitHub profile. I'm a full-stack developer passionate about building accessible, creative, and innovative web experiences. Whether I'm working independently or as part of a team, I'm always exploring new technologies and pushing the boundaries of what's possible on the web.
+Hey there! Welcome to my GitHub profile. I'm a full-stack developer passionate about building accessible, creative, and innovative web experiences. I'm dedicated to creating technology that pushes boundaries and helps make the world a better place.
 
 ![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/cosmosgif.gif)
 
@@ -34,11 +34,6 @@ I work with modern, scalable technologies across the full stack:
 
 ---
 
-### 📚 Featured Projects
-* **Chrome Content Hider** - A browser extension for hiding distracting content and maintaining focus
-* **Code Cosmos Labs** - My experimental playground for testing new ideas and features
-* **Personal Website** - My portfolio and blog
-
 ### 💡 Philosophy
 I build technology that matters. My focus is on:
 - ✨ **Accessibility** - Everyone deserves great tools
@@ -48,14 +43,12 @@ I build technology that matters. My focus is on:
 
 ---
 
-### 🛠️ Development Notes
-* Exploring new frameworks and tools constantly
-* Always open to collaboration and learning
+### 🛠️ Notes
 * If you find a 404 or broken link, just know I'm probably still building that! 😅
 
 ### ⚖️ License & Community
 * **License:** Feel free to fork my code! However, please don't monetize or replicate my projects without permission.
-* **Community:** Let's keep things positive and respectful. Be kind! ✨
+* **Community Guidelines:** No scary, violent, or inappropriate content allowed. Let's keep things positive and respectful. ✨
 
 ---
 
@@ -67,4 +60,4 @@ I build technology that matters. My focus is on:
 
 ---
 
-Happy exploring! Feel free to check out my repositories and reach out if you want to collaborate. 🌠
+Happy exploring! 🌠
