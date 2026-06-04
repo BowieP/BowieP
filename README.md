@@ -8,7 +8,7 @@ Hey there! Welcome to my GitHub profile. I'm a full-stack developer passionate a
 
 ### 🚀 About Me
 I'm a young developer dedicated to creating technology that's **accessible to everyone**. My work spans:
-* **Web Development** | **Browser Extensions** | **Full-Stack Apps** | **Experimental Projects** | **Creative Tech** | **And More!**
+* **Web Development** | **Artificial intelligence** | **Full-Stack Apps** | **Experimental Projects** | **Creative Tech** | **And More!**
 
 I believe in building with purpose, maintaining clean code, and always learning something new.
 
