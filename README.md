@@ -1,6 +1,7 @@
 # 🌌 Welcome to the Code Cosmos! 👋
 
 Welcome to the Code Cosmos GitHub profile! This is where we build and share repositories for our services, websites, and apps.
+This is Bowies's profile, and Code Cosmos is one of his projects. Code Cosmos is not this accounts complete identity.
 
 ​![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/cosmosgif.gif)
 
