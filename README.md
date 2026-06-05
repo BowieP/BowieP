@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my GitHub profile. I'm a full-stack developer passionate about building accessible, creative, and innovative web experiences. I'm dedicated to creating technology that pushes boundaries and helps make the world a better place.
 
-![Code Cosmos Mission GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/bowiesgithubgif.gif)
+![Bowie's GitHub GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/bowiesgithubgif.gif)
 
 ---
 
@@ -27,10 +27,9 @@ I work with modern, scalable technologies across the full stack:
 ### 🗺️ Where to Find Me
 | Resource | Link |
 | :--- | :--- |
-| **🌐 Website** | [codecosmos.net](https://codecosmos.net) |
 | **👤 Personal Site** | [bowie.pages.codecosmos.net](https://bowie.pages.codecosmos.net) |
 | **📺 YouTube** | [@CodeCosmos_YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP) |
-| **📖 About Code Cosmos** | [See ABOUT_CODECOSMOS.md](./ABOUT_CODECOSMOS.md) |
+| **📖 About Me** | [See my website](https://bowie.pages.codecosmos.net) |
 
 ---
 
@@ -53,10 +52,10 @@ I build technology that matters. My focus is on:
 ---
 
 ### 📊 GitHub Stats
-![Visitor Count](https://komarev.com/ghpvc/?username=The-Code-Cosmos&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-![Total Stars](https://img.shields.io/github/stars/The-Code-Cosmos?style=flat-square&label=TOTAL+STARS&color=gold)
+![Visitor Count](https://komarev.com/ghpvc/?username=BowieP&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Total Stars](https://img.shields.io/github/stars/BowieP?style=flat-square&label=TOTAL+STARS&color=gold)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Code-Cosmos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BowieP&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
