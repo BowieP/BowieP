@@ -28,8 +28,8 @@ I work with modern, scalable technologies across the full stack:
 | Resource | Link |
 | :--- | :--- |
 | **👤 Personal Site** | [bowie.pages.codecosmos.net](https://bowie.pages.codecosmos.net) |
-| **📺 YouTube** | [@CodeCosmos_YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP) |
-| **📖 About Me** | [See my website](https://bowie.pages.codecosmos.net) |
+| **📺 YouTube** | [@BowieAndCodeCosmos](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP) |
+| **📖 Link to Code Cosmos** | [Code Cosmos GitHub Org](https://github.com/The-Code-Cosmos) |
 
 ---
 
