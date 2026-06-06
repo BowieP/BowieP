@@ -35,18 +35,9 @@ I moved away from free `.web.app` links and decided to create a real brand. I bo
 
 ---
 
-### **The CodeCosmos Ecosystem**
-Today, I manage several distinct platforms:
-
-| Platform | Purpose |
-| :--- | :--- |
-| **codecosmos.net** | The home of the mission. 🏠 |
-| **starcoder.codecosmos.net** | Learning blocks, JS, and coding games. 🌟 |
-| **kidvids.codecosmos.net** | Video sharing platform and studio. 🎬 |
-
 **Join the journey:**
-* **GitHub:** [github.com/@The-Code-Cosmos](https://github.com/@The-Code-Cosmos) 🐙
-* **YouTube:** [https://youtube.com/@CodeCosmos_YT](https://youtube.com/@CodeCosmos_YT?si=oMFtt09sDWRHBsuP) 📺
+* **GitHub:** [github.com/BowieP](https://github.com/BowieP) 🐙
+* **YouTube:** [https://youtube.com/@BowieAndCodeCosmos](https://youtube.com/@BowieAndCodeCosmos) 📺
 
 ---
 
