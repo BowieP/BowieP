@@ -1,62 +1,59 @@
-# 🌌 Welcome, I'm Bowie! 👋
+# Hi, I'm Bowie! 👋
 
-Hey there! Welcome to my GitHub profile. I'm a full-stack developer passionate about building accessible, creative, and innovative web experiences. I'm dedicated to creating technology that pushes boundaries and helps make the world a better place.
+Welcome to my GitHub! I engineer accessible, scalable, and creative web applications. With a strong foundation in full-stack development and artificial intelligence, I focus on building intuitive user experiences that push technical boundaries while remaining inclusive for all users.
 
-![Bowie's GitHub GIF](https://raw.githubusercontent.com/The-Code-Cosmos/The-Code-Cosmos/refs/heads/main/bowiesgithubgif.gif)
+![Bowie's GitHub GIF](https://raw.githubusercontent.com/BowieP/BowieP/refs/heads/main/bowiesgithubgif.gif)
 
 ---
 
-### 🚀 About Me
-I'm a young developer dedicated to creating technology that's **accessible to everyone**. My work spans:
-* **Web Development** | **Artificial intelligence** | **Full-Stack Apps** | **Experimental Projects** | **Creative Tech** | **And More!**
+### 🚀 Professional Focus
+I am dedicated to writing clean, maintainable code and building technology with purpose. My current areas of expertise include:
+* **Full-Stack Web Architecture**
+* **Artificial Intelligence Integration** 
+* **Accessible UI/UX Engineering**
+* **Creative & Experimental Tech**
 
-I believe in building with purpose, maintaining clean code, and always learning something new.
+---
 
 ### 💻 Tech Stack
-I work with modern, scalable technologies across the full stack:
+I work with modern, scalable technologies to bring ideas from concept to deployment:
 
-| Technology | Purpose |
+| Technology | What I use it for |
 | :--- | :--- |
-| **React** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprRxmkWKxZ9EfnfAp_vZeb6XUHLC-ONyC3a8jSDTPcA&s" width="30"> Core Web Development|
-| **HTML/JS** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qG8y6YJ6NjiFRVkl4eXKUXcHXEBH2hvKp9EPFyudsg&s" width="30"> MarkUp & Scripts |
-| **Firebase** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrm2KgAzoNpoDwhgyX7Xc9M3WVSp-awXwD6bj9fxQrrj-xGui3iT0xlR0&s" width="30"> Backend, Auth & Database |
-| **Node.js** | <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="30"> Server & CLI Tools |
+| **React** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprRxmkWKxZ9EfnfAp_vZeb6XUHLC-ONyC3a8jSDTPcA&s" width="30"> Frontend Architecture & SPAs|
+| **HTML/JS** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qG8y6YJ6NjiFRVkl4eXKUXcHXEBH2hvKp9EPFyudsg&s" width="30"> Semantic Markup & Web Schemas |
+| **Node.js** | <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="30"> My main terminal |
+| **Firebase** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrm2KgAzoNpoDwhgyX7Xc9M3WVSp-awXwD6bj9fxQrrj-xGui3iT0xlR0&s" width="30"> Serverless Backend, Auth & NoSQL Databases |
 
 ---
 
-### 🗺️ Where to Find Me
-| Resource | Link |
-| :--- | :--- |
-| **👤 Personal Site** | [bowie.pages.codecosmos.net](https://bowie.pages.codecosmos.net) |
-| **📺 YouTube** | [@BowieAndCodeCosmos](https://youtube.com/@BowieAndCodeCosmos) |
-| **📖 Link to Code Cosmos** | [Code Cosmos GitHub Org](https://github.com/The-Code-Cosmos) |
+### 💡 Engineering Principles
+I believe that the best software is built at the intersection of logic and empathy.
+- ✨ **Accessibility First:** Designing tools that are usable and equitable for everyone. 
+- 🎨 **Creative Problem Solving:** Pushing boundaries to find innovative solutions.
+- 📖 **Continuous Learning:** Adapting to new frameworks and sharing knowledge.
+- 🤝 **Open Source Community:** Fostering kind, inclusive, and collaborative developer spaces.
 
 ---
 
-### 💡 Philosophy
-I build technology that matters. My focus is on:
-- ✨ **Accessibility** - Everyone deserves great tools
-- 🎨 **Creativity** - Pushing boundaries and trying new things
-- 📖 **Education** - Learning and sharing knowledge
-- 🤝 **Community** - Building kind, inclusive spaces
+### 🗺️ Connect & Explore
+Looking to collaborate or see my work in action? Let's connect!
+
+| Platform | Link | Description |
+| :--- | :--- | :--- |
+| **👤 Portfolio** | [bowie.pages.codecosmos.net](https://bowie.pages.codecosmos.net) | My personal website and favourite things | 
+| **📺 YouTube** | [@BowieAndCodeCosmos](https://youtube.com/@BowieAndCodeCosmos) | This is my vlogs and creator channel, not all tech | 
+| **📖 Organization** | [Code Cosmos GitHub Org](https://github.com/The-Code-Cosmos) | The Code Cosmos Organization I founded | 
 
 ---
 
-### 🛠️ Notes
-* If you find a 404 or broken link, just know I'm probably still building that! 😅
+* **Note:** If you hit a 404, it just means I'm actively building or refactoring that project. 😅
+* **License & Use:** You are welcome to fork my open-source code to learn and explore. However, please refrain from monetizing or replicating my projects without explicit permission. Let's keep the community positive, respectful, and safe.
 
-### ⚖️ License & Community
-* **License:** Feel free to fork my code! However, please don't monetize or replicate my projects without permission.
-* **Community Guidelines:** No scary, violent, or inappropriate content allowed. Let's keep things positive and respectful. ✨
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 ![Visitor Count](https://komarev.com/ghpvc/?username=BowieP&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 ![Total Stars](https://img.shields.io/github/stars/BowieP?style=flat-square&label=TOTAL+STARS&color=gold)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BowieP&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
----
-
-Happy exploring! 🌠
+**Goodbye!** 👋
