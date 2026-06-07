@@ -14,6 +14,10 @@ I am dedicated to writing clean, maintainable code and building technology with 
 * **Creative & Experimental Tech**
 
 ---
+  
+**I know all about the code but the one writing the syntax is AI. I ask it to explain it but AI writes the syntax code.**
+
+---
 
 ### 💻 Tech Stack
 I work with modern, scalable technologies to bring ideas from concept to deployment:
