@@ -46,7 +46,7 @@ Looking to collaborate or see my work in action? Let's connect!
 | Platform | Link | Description |
 | :--- | :--- | :--- |
 | **👤 Portfolio** | [bowie.pages.codecosmos.net](https://bowie.pages.codecosmos.net) | My personal website and favourite things | 
-| **📺 YouTube** | [@BowieAndCodeCosmos](https://youtube.com/@BowieAndCodeCosmos) | This is my vlogs and creator channel, not all tech | 
+| **📺 YouTube** | [UC0FhXnv0_n4CZWKxDNHDiQA](https://www.youtube.com/channel/UC0FhXnvO_n4CZWKxDNHDiQA) | This is my vlogs and creator channel, not all tech | 
 | **📖 Organization** | [Code Cosmos GitHub Org](https://github.com/The-Code-Cosmos) | The Code Cosmos Organization I founded | 
 
 ---
