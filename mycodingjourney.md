@@ -37,7 +37,7 @@ I moved away from free `.web.app` links and decided to create a real brand. I bo
 
 **Join the journey:**
 * **GitHub:** [github.com/BowieP](https://github.com/BowieP) 🐙
-* **YouTube:** [https://youtube.com/@BowieAndCodeCosmos](https://youtube.com/@BowieAndCodeCosmos) 📺
+* **YouTube:** [https://youtube.com/@BowieAndCodeCosmos](https://youtube.com/@BowieP_YT) 📺
 
 ---
 
